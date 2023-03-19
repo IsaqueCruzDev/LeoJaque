@@ -19,6 +19,7 @@
     text-decoration: none;
     list-style: none;
     text-transform: capitalize;
+    scroll-behavior: smooth;
 }
 
 html{
